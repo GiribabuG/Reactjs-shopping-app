@@ -1,0 +1,52 @@
+{
+    "products": [
+        {
+            "_id": "dress1",
+            "discription": " Product color may slightly vary due to photographic lighting sources or your monitor settings.",
+            "image" : "/images/dress6.jpg",
+            "title": "Midi dress in pink ditsy floral",
+            "price" : 14.9,
+            "availableSize" : ["XL" , "XXL" ]
+        },
+        {
+            "_id": "dress2",
+            "discription": "Disclaimer: slight color variation is possible due to photographic effects & printing limitations",
+            "image" : "/images/dress5.jpg",
+            "title": "Frill mini dress in yellow polka dot",
+            "price" : 19.0,
+            "availableSize" : ["XL" , "XXL", "L" ]
+        },
+        {
+            "_id": "dress3",
+            "discription": "Suitable for daily wear in offices and family places and parties",
+            "image" : "/images/dress4.jpg",
+            "title": "Midi sundress with shirring detail",
+            "price" : 18.7,
+            "availableSize" : ["XL" , "M" ]
+        },
+        {
+            "_id": "dress4",
+            "discription": " Rayon with three quarter sleeve and round neck",
+            "image" : "/images/dress3.jpg",
+            "title": "Midi tea dress in blue and red spot",
+            "price" : 15.5,
+            "availableSize" : ["XxL" , "M", "S" ]
+        },
+        {
+            "_id": "dress5",
+            "discription": "Machine wash (cold) separately, For better results dry clean suggested, Don't Bleach, Tumble dry low, Warm Iron if needed",
+            "image" : "/images/dress2.jpg",
+            "title": "Midi sundress with ruched front",
+            "price" : 14.8,
+            "availableSize" : ["XL" , "XXL","XS"]
+        },
+        {
+            "_id": "dress6",
+            "discription": "MAX Women Printed Three-quarter Sleeves Straight",
+            "image" : "/images/dress1.jpg",
+            "title": "cami maxi dress in polka dot",
+            "price" : 19.9,
+            "availableSize" : ["XL" , "XXL" , "M"]
+        }
+    ]
+}
